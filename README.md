@@ -8,8 +8,5 @@ The main entity has data validation and appropriate exception handling. Several 
 
 
 
-## Screenshots
-![App Screenshot](https://ibb.co/fXLG95c)
 
-![App Screenshot](https://ibb.co/prwLWkW)
 
